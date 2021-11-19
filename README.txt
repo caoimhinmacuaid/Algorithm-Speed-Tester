@@ -14,8 +14,8 @@ This application tests the speed of 5 sorting algorithms
 Features
 --------
 
-Presents a table containing a list of  5 sorting algorithms (Insertion Sort, Quick Sort, Bucket Sort, Radix Sort, Bubble Sort) 
-and their respective running times for differing input sizes (n)
+Presents a table containing a list of  5 sorting algorithms (Insertion Sort, Quick Sort, Bucket Sort, Radix Sort, 
+Bubble Sort) and their respective running times for differing input sizes (n)
 
 Requirements
 -----------
